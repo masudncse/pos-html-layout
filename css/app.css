@@ -5,6 +5,24 @@ body {
   font-weight: 300;
 }
 
+.detailsTable td,
+.detailsTable th {
+  font-size: 16px;
+  padding: 8px 15px !important;
+  font-weight: 300;
+}
+
+.invoiceTable td,
+.invoiceTable th {
+  font-size: 15px;
+  padding: 0px 0px !important;
+  font-weight: 300;
+}
+
+.invoiceTable tr {
+  border-bottom: none;
+}
+
 .myTable {
   border-collapse: separate;
   border-radius: 6px;
